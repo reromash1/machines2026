@@ -1,0 +1,2 @@
+Hola, este es un archivo de prueba para el Desarrollo de ejercicios.
+Aquí practicamos Python y el manejo de ficheros en el ITQ.
